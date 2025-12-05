@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lukamesec.github.io/posts/pasme/</loc>
-    <lastmod>2025-02-05T13:43:46+01:00</lastmod>
+    <loc>https://lukamesec.github.io/posts/kesher-pete/</loc>
+    <lastmod>2025-12-05T07:24:27+01:00</lastmod>
   </url><url>
     <loc>https://lukamesec.github.io/</loc>
-    <lastmod>2025-02-05T13:43:46+01:00</lastmod>
+    <lastmod>2025-12-05T07:24:27+01:00</lastmod>
   </url><url>
     <loc>https://lukamesec.github.io/posts/</loc>
+    <lastmod>2025-12-05T07:24:27+01:00</lastmod>
+  </url><url>
+    <loc>https://lukamesec.github.io/posts/pasme/</loc>
     <lastmod>2025-02-05T13:43:46+01:00</lastmod>
   </url><url>
     <loc>https://lukamesec.github.io/posts/lineage-2/</loc>
